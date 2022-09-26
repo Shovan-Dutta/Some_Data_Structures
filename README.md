@@ -1,2 +1,2 @@
-# Linked_list
-Some basic operations of linked list using C.
+# Data_Structure 
+Programs using C.
